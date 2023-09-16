@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "scripts": {
+    "gen:rss": "bun run scripts/gen-rss.js"
+  },
+  "devDependencies": {
+    "feed": "4.2.2"
+  }
+}
