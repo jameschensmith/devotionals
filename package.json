@@ -1,17 +1,17 @@
 {
-  "private": true,
-  "scripts": {
-    "format": "prettier --write .",
-    "format:check": "prettier --check .",
-    "gen:rss": "bun run scripts/gen-rss.js"
-  },
-  "devDependencies": {
-    "feed": "4.2.2",
-    "prettier": "3.0.3"
-  },
-  "prettier": {
-    "semi": false,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  }
+    "private": true,
+    "scripts": {
+        "format": "prettier --write .",
+        "format:check": "prettier --check .",
+        "gen:rss": "bun run scripts/gen-rss.js"
+    },
+    "devDependencies": {
+        "feed": "4.2.2",
+        "prettier": "3.0.3"
+    },
+    "prettier": {
+        "semi": false,
+        "singleQuote": true,
+        "trailingComma": "es5"
+    }
 }
