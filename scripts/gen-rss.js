@@ -1,6 +1,6 @@
-import crypto from "node:crypto"
-import { mkdir, readdir } from "node:fs/promises"
-import path from "node:path"
+import crypto from 'node:crypto'
+import { mkdir, readdir } from 'node:fs/promises'
+import path from 'node:path'
 import { Feed } from 'feed'
 
 const today = new Date()
@@ -26,21 +26,29 @@ const feeds = (await readdir(devotionalsDir)).map((devotionalFileName) => {
   })
 
   feed.addItem({
-    id: crypto.createHash('md5').update([Metadata.Title, month, dayOfMonth].join('')).digest('hex'),
-    title: today.toLocaleDateString("en-US", { month: 'long', day: 'numeric' }),
+    id: crypto
+      .createHash('md5')
+      .update([Metadata.Title, month, dayOfMonth].join(''))
+      .digest('hex'),
+    title: today.toLocaleDateString('en-US', { month: 'long', day: 'numeric' }),
     description: entry.verse,
     content: entry.body,
     date: new Date(),
   })
 
-  return { name: path.basename(devotionalFileName, '.json'), data: feed.atom1() }
+  return {
+    name: path.basename(devotionalFileName, '.json'),
+    data: feed.atom1(),
+  }
 })
 
 const outputDir = path.join(rootPath, 'public')
 await mkdir(outputDir, { recursive: true })
 
-await Promise.all(feeds.map(async (f) => {
-  const feedDir = path.join(outputDir, f.name)
-  await mkdir(feedDir, { recursive: true })
-  await Bun.write(path.join(feedDir, `feed.xml`), f.data)
-}))
+await Promise.all(
+  feeds.map(async (f) => {
+    const feedDir = path.join(outputDir, f.name)
+    await mkdir(feedDir, { recursive: true })
+    await Bun.write(path.join(feedDir, `feed.xml`), f.data)
+  })
+)
