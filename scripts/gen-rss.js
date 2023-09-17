@@ -2,6 +2,23 @@ import crypto from 'node:crypto'
 import { mkdir, readdir } from 'node:fs/promises'
 import path from 'node:path'
 import { Feed } from 'feed'
+import { JSDOM } from 'jsdom'
+import { DOMSerializer, Node } from 'prosemirror-model'
+import { schema } from 'prosemirror-schema-basic'
+
+const bodyToHtml = (body) => {
+    const { window } = new JSDOM('<!DOCTYPE html><div class="container"></div>')
+    const { document } = window
+    const target = document.querySelector('.container')
+
+    const contentNode = Node.fromJSON(schema, body)
+    DOMSerializer.fromSchema(schema).serializeFragment(
+        contentNode.content,
+        { document },
+        target
+    )
+    return document.querySelector('.container').innerHTML
+}
 
 const today = new Date()
 // Add one to month for 1-based indexing
@@ -13,6 +30,8 @@ const feeds = (await readdir(devotionalsDir)).map((devotionalFileName) => {
     const devotionalPathName = path.join(devotionalsDir, devotionalFileName)
     const { Metadata, Data } = require(devotionalPathName)
     const entry = Data.find((it) => it.month == month && it.day == dayOfMonth)
+
+    const bodyHtml = bodyToHtml(entry.body)
 
     const feed = new Feed({
         id: Metadata.SourceUrl,
@@ -35,7 +54,7 @@ const feeds = (await readdir(devotionalsDir)).map((devotionalFileName) => {
             day: 'numeric',
         }),
         description: entry.verse,
-        content: entry.body,
+        content: bodyHtml,
         date: new Date(),
     })
 
