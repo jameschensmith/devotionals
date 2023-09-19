@@ -1,0 +1,28 @@
+name: Continuous Integration
+
+on:
+    push:
+        branches: ['trunk']
+    pull_request:
+        branches: ['trunk']
+    workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+    group: 'ci'
+    cancel-in-progress: false
+
+jobs:
+    run_static_tests:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v3
+            - uses: oven-sh/setup-bun@v1
+              with:
+                  bun-version: latest
+            - name: Install dependencies
+              run: bun install
+            - name: Check formatting
+              run: bun run format:check
