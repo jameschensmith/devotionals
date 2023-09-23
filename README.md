@@ -1,6 +1,6 @@
-# Devotions
+# Devotionals
 
-Structured copies of public domain Christian devotions.
+Structured copies of public domain Christian devotionals.
 
 ## Public Domain
 
