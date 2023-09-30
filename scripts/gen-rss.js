@@ -53,7 +53,6 @@ const feeds = (await readdir(devotionalsDir)).map((devotionalFileName) => {
             month: 'long',
             day: 'numeric',
         }),
-        description: entry.verse,
         content: bodyHtml,
         date: new Date(),
     })
