@@ -12,7 +12,6 @@
     },
     "Data": [
         {
-            "time": "evening",
             "month": 1,
             "day": 1,
             "verse": "Song.1.4",
@@ -46,7 +45,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 2,
             "verse": "Isa.41.1",
@@ -80,7 +78,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 3,
             "verse": "Luke.3.4",
@@ -150,7 +147,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 4,
             "verse": "Gen.42.8",
@@ -193,7 +189,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 5,
             "verse": "Gen.1.4",
@@ -227,7 +222,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 6,
             "verse": "Ezek.33.22",
@@ -261,7 +255,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 7,
             "verse": "Song.4.12",
@@ -295,7 +288,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 8,
             "verse": "Song.1.2",
@@ -329,7 +321,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 9,
             "verse": "Ps.100.2",
@@ -381,7 +372,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 10,
             "verse": "Job.19.26",
@@ -415,7 +405,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 11,
             "verse": "Luke.22.32",
@@ -449,7 +438,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 12,
             "verse": "Job.36.2",
@@ -483,7 +471,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 13,
             "verse": "2Kgs.6.6",
@@ -526,7 +513,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 14,
             "verse": "Matt.14.30",
@@ -578,7 +564,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 15,
             "verse": "Ps.109.4",
@@ -621,7 +606,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 16,
             "verse": "Dan.9.26",
@@ -664,7 +648,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 17,
             "verse": "2Sam.11.2",
@@ -716,7 +699,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 18,
             "verse": "Luke.24.27",
@@ -768,7 +750,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 19,
             "verse": "Luke.24.45",
@@ -802,7 +783,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 20,
             "verse": "Ps.119.37",
@@ -836,7 +816,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 21,
             "verse": "Judg.15.18",
@@ -870,7 +849,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 22,
             "verse": "Job.1.9",
@@ -904,7 +882,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 23,
             "verse": "Song.1.4",
@@ -938,7 +915,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 24,
             "verse": "Luke.10.40",
@@ -972,7 +948,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 25,
             "verse": "Rom.3.31",
@@ -1006,7 +981,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 26,
             "verse": "Luke.2.18",
@@ -1040,7 +1014,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 27,
             "verse": "Luke.2.19",
@@ -1074,7 +1047,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 28,
             "verse": "Luke.2.20",
@@ -1108,7 +1080,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 29,
             "verse": "Gen.8.11",
@@ -1142,7 +1113,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 30,
             "verse": "Eph.1.11",
@@ -1176,7 +1146,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 1,
             "day": 31,
             "verse": "2Sam.18.23",
@@ -1219,7 +1188,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 1,
             "verse": "2Sam.1.26",
@@ -1253,7 +1221,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 2,
             "verse": "1Chr.4.22",
@@ -1296,7 +1263,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 3,
             "verse": "Song.1.7",
@@ -1330,7 +1296,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 4,
             "verse": "Josh.20.3",
@@ -1382,7 +1347,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 5,
             "verse": "Matt.11.25",
@@ -1416,7 +1380,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 6,
             "verse": "Jas.5.16",
@@ -1459,7 +1422,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 7,
             "verse": "Rev.11.12",
@@ -1529,7 +1491,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 8,
             "verse": "Matt.1.21",
@@ -1563,7 +1524,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 9,
             "verse": "Luke.11.4",
@@ -1606,7 +1566,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 10,
             "verse": "Isa.44.22",
@@ -1658,7 +1617,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 11,
             "verse": "Rev.2.4",
@@ -1692,7 +1650,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 12,
             "verse": "John.14.16",
@@ -1735,7 +1692,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 13,
             "verse": "Rom.8.1",
@@ -1778,7 +1734,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 14,
             "verse": "Luke.8.47",
@@ -1812,7 +1767,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 15,
             "verse": "Ps.45.8",
@@ -1846,7 +1800,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 16,
             "verse": "Neh.9.20",
@@ -1880,7 +1833,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 17,
             "verse": "Ezek.35.10",
@@ -1923,7 +1875,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 18,
             "verse": "Luke.15.18",
@@ -1957,7 +1908,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 19,
             "verse": "John.1.41",
@@ -1991,7 +1941,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 20,
             "verse": "Matt.4.1",
@@ -2025,7 +1974,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 21,
             "verse": "Acts.8.30",
@@ -2059,7 +2007,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 22,
             "verse": "Nah.1.3",
@@ -2093,7 +2040,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 23,
             "verse": "Mark.10.21",
@@ -2136,7 +2082,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 24,
             "verse": "Zech.1.12-Zech.1.13",
@@ -2170,7 +2115,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 25,
             "verse": "Jonah.1.3",
@@ -2204,7 +2148,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 26,
             "verse": "Lev.13.13",
@@ -2247,7 +2190,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 27,
             "verse": "Mic.5.2",
@@ -2281,7 +2223,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 28,
             "verse": "1Kgs.17.16",
@@ -2315,7 +2256,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 2,
             "day": 29,
             "verse": "1Cor.2.12",
@@ -2349,7 +2289,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 1,
             "verse": "1Pet.2.7",
@@ -2383,7 +2322,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 2,
             "verse": "Eph.3.8",
@@ -2417,7 +2355,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 3,
             "verse": "Matt.3.16",
@@ -2451,7 +2388,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 4,
             "verse": "Ps.36.8",
@@ -2485,7 +2421,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 5,
             "verse": "Ps.35.3",
@@ -2519,7 +2454,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 6,
             "verse": "Prov.18.12",
@@ -2553,7 +2487,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 7,
             "verse": "Ps.118.8",
@@ -2587,7 +2520,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 8,
             "verse": "Gen.35.18",
@@ -2621,7 +2553,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 9,
             "verse": "John.15.4",
@@ -2655,7 +2586,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 10,
             "verse": "Job.14.1",
@@ -2689,7 +2619,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 11,
             "verse": "Isa.62.12",
@@ -2732,7 +2661,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 12,
             "verse": "1Sam.30.13",
@@ -2784,7 +2712,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 13,
             "verse": "Gen.8.9",
@@ -2818,7 +2745,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 14,
             "verse": "Ps.39.1",
@@ -2852,7 +2778,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 15,
             "verse": "2Chr.31.21",
@@ -2886,7 +2811,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 16,
             "verse": "Ps.19.13",
@@ -2920,7 +2844,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 17,
             "verse": "Matt.5.9",
@@ -2954,7 +2877,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 18,
             "verse": "John.15.9",
@@ -2988,7 +2910,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 19,
             "verse": "Ruth.2.14",
@@ -3022,7 +2943,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 20,
             "verse": "Eph.5.25",
@@ -3056,7 +2976,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 21,
             "verse": "Job.38.31",
@@ -3099,7 +3018,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 22,
             "verse": "John.17.24",
@@ -3133,7 +3051,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 23,
             "verse": "Luke.19.40",
@@ -3167,7 +3084,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 24,
             "verse": "Luke.10.21",
@@ -3201,7 +3117,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 25,
             "verse": "John.3.13",
@@ -3244,7 +3159,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 26,
             "verse": "Mark.8.38",
@@ -3278,7 +3192,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 27,
             "verse": "Matt.15.27",
@@ -3312,7 +3225,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 28,
             "verse": "Ezek.20.41",
@@ -3346,7 +3258,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 29,
             "verse": "Song.5.6",
@@ -3380,7 +3291,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 30,
             "verse": "Lam.3.40",
@@ -3414,7 +3324,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 3,
             "day": 31,
             "verse": "2Sam.21.10",
@@ -3448,7 +3357,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 1,
             "verse": "Hos.10.12",
@@ -3482,7 +3390,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 2,
             "verse": "Isa.53.10",
@@ -3516,7 +3423,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 3,
             "verse": "Isa.53.6",
@@ -3550,7 +3456,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 4,
             "verse": "Isa.2.3",
@@ -3584,7 +3489,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 5,
             "verse": "Prov.15.33",
@@ -3618,7 +3522,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 6,
             "verse": "Ps.118.12",
@@ -3661,7 +3564,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 7,
             "verse": "Ps.51.14",
@@ -3713,7 +3615,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 8,
             "verse": "Ps.23.4",
@@ -3747,7 +3648,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 9,
             "verse": "Ps.18.35",
@@ -3781,7 +3681,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 10,
             "verse": "Acts.27.23",
@@ -3833,7 +3732,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 11,
             "verse": "Ps.25.18",
@@ -3876,7 +3774,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 12,
             "verse": "Neh.3.15",
@@ -3928,7 +3825,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 13,
             "verse": "Lev.1.4",
@@ -3971,7 +3867,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 14,
             "verse": "Isa.3.10",
@@ -4005,7 +3900,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 15,
             "verse": "Ps.28.9",
@@ -4048,7 +3942,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 16,
             "verse": "Exod.17.12",
@@ -4091,7 +3984,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 17,
             "verse": "John.12.21",
@@ -4134,7 +4026,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 18,
             "verse": "Gen.32.12",
@@ -4168,7 +4059,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 19,
             "verse": "Rev.3.14",
@@ -4211,7 +4101,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 20,
             "verse": "1Sam.18.17",
@@ -4254,7 +4143,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 21,
             "verse": "Rom.8.34",
@@ -4306,7 +4194,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 22,
             "verse": "Ps.91.5",
@@ -4349,7 +4236,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 23,
             "verse": "Rev.5.6",
@@ -4392,7 +4278,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 24,
             "verse": "Song.2.12",
@@ -4426,7 +4311,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 25,
             "verse": "Rev.3.20",
@@ -4460,7 +4344,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 26,
             "verse": "Rev.16.15",
@@ -4494,7 +4377,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 27,
             "verse": "Ps.10.16",
@@ -4528,7 +4410,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 28,
             "verse": "Ezek.3.7",
@@ -4562,7 +4443,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 29,
             "verse": "Ps.149.4",
@@ -4596,7 +4476,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 4,
             "day": 30,
             "verse": "Ps.139.17",
@@ -4639,7 +4518,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 1,
             "verse": "Song.2.1",
@@ -4673,7 +4551,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 2,
             "verse": "Heb.11.13",
@@ -4716,7 +4593,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 3,
             "verse": "Ps.46.1",
@@ -4759,7 +4635,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 4,
             "verse": "1Pet.1.23",
@@ -4793,7 +4668,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 5,
             "verse": "Prov.16.20",
@@ -4827,7 +4701,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 6,
             "verse": "Job.14.14",
@@ -4861,7 +4734,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 7,
             "verse": "John.5.8",
@@ -4904,7 +4776,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 8,
             "verse": "Job.22.21",
@@ -4938,7 +4809,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 9,
             "verse": "Song.7.11-Song.7.12",
@@ -4972,7 +4842,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 10,
             "verse": "John.1.14",
@@ -5006,7 +4875,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 11,
             "verse": "Josh.1.7",
@@ -5040,7 +4908,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 12,
             "verse": "Gen.46.3-Gen.46.4",
@@ -5074,7 +4941,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 13,
             "verse": "Ps.119.57",
@@ -5108,7 +4974,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 14,
             "verse": "Isa.40.11",
@@ -5160,7 +5025,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 15,
             "verse": "Heb.12.23",
@@ -5194,7 +5058,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 16,
             "verse": "2Kgs.3.16-2Kgs.3.17",
@@ -5237,7 +5100,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 17,
             "verse": "Isa.41.9",
@@ -5271,7 +5133,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 18,
             "verse": "Heb.12.11",
@@ -5305,7 +5166,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 19,
             "verse": "1Kgs.19.4",
@@ -5339,7 +5199,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 20,
             "verse": "Hos.11.4",
@@ -5373,7 +5232,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 21,
             "verse": "Gen.42.2",
@@ -5407,7 +5265,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 22,
             "verse": "Song.1.16",
@@ -5441,7 +5298,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 23,
             "verse": "Isa.43.24",
@@ -5475,7 +5331,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 24,
             "verse": "Phil.1.27",
@@ -5509,7 +5364,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 25,
             "verse": "Luke.24.33,Luke.24.35",
@@ -5543,7 +5397,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 26,
             "verse": "Acts.14.22",
@@ -5577,7 +5430,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 27,
             "verse": "2Sam.9.8",
@@ -5611,7 +5463,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 28,
             "verse": "Lam.3.21",
@@ -5645,7 +5496,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 29,
             "verse": "Josh.6.26",
@@ -5679,7 +5529,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 30,
             "verse": "Rom.6.6",
@@ -5713,7 +5562,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 5,
             "day": 31,
             "verse": "Ps.103.3",
@@ -5747,7 +5595,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 1,
             "verse": "Isa.51.3",
@@ -5781,7 +5628,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 2,
             "verse": "Matt.19.16",
@@ -5815,7 +5661,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 3,
             "verse": "Phil.2.8",
@@ -5849,7 +5694,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 4,
             "verse": "1Tim.3.16",
@@ -5883,7 +5727,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 5,
             "verse": "1John.4.8",
@@ -5917,7 +5760,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 6,
             "verse": "2Cor.11.22",
@@ -5951,7 +5793,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 7,
             "verse": "Rev.3.19",
@@ -5985,7 +5826,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 8,
             "verse": "Num.11.23",
@@ -6019,7 +5859,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 9,
             "verse": "John.5.39",
@@ -6053,7 +5892,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 10,
             "verse": "John.5.39",
@@ -6087,7 +5925,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 11,
             "verse": "Ps.76.3",
@@ -6121,7 +5958,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 12,
             "verse": "2Tim.1.9",
@@ -6155,7 +5991,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 13,
             "verse": "Prov.30.8,Ps.38.21",
@@ -6189,7 +6024,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 14,
             "verse": "Dan.9.8",
@@ -6223,7 +6057,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 15,
             "verse": "Rev.3.7",
@@ -6257,7 +6090,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 16,
             "verse": "Ps.27.1",
@@ -6291,7 +6123,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 17,
             "verse": "Num.21.17",
@@ -6325,7 +6156,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 18,
             "verse": "Song.5.1",
@@ -6359,7 +6189,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 19,
             "verse": "Song.2.16-Song.2.17",
@@ -6411,7 +6240,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 20,
             "verse": "Mark.1.18",
@@ -6445,7 +6273,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 21,
             "verse": "2Tim.2.19",
@@ -6479,7 +6306,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 22,
             "verse": "Heb.12.27",
@@ -6513,7 +6339,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 23,
             "verse": "Rom.8.23",
@@ -6547,7 +6372,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 24,
             "verse": "Dan.3.16,Dan.3.18",
@@ -6581,7 +6405,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 25,
             "verse": "Gen.8.9",
@@ -6615,7 +6438,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 26,
             "verse": "2Pet.1.4",
@@ -6658,7 +6480,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 27,
             "verse": "1Cor.7.20",
@@ -6692,7 +6513,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 28,
             "verse": "Exod.7.12",
@@ -6726,7 +6546,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 29,
             "verse": "2Chr.32.31",
@@ -6760,7 +6579,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 6,
             "day": 30,
             "verse": "Jer.32.17",
@@ -6794,7 +6612,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 1,
             "verse": "Gen.3.8",
@@ -6828,7 +6645,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 2,
             "verse": "Ps.28.1",
@@ -6871,7 +6687,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 3,
             "verse": "2Tim.2.12",
@@ -6905,7 +6720,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 4,
             "verse": "Ps.24.4",
@@ -6957,7 +6771,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 5,
             "verse": "Isa.26.4",
@@ -6991,7 +6804,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 6,
             "verse": "Job.13.23",
@@ -7025,7 +6837,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 7,
             "verse": "Ezek.16.6",
@@ -7059,7 +6870,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 8,
             "verse": "Ps.25.5",
@@ -7093,7 +6903,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 9,
             "verse": "Gen.1.4",
@@ -7127,7 +6936,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 10,
             "verse": "Gen.1.5",
@@ -7161,7 +6969,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 11,
             "verse": "Joel.1.3",
@@ -7195,7 +7002,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 12,
             "verse": "2Tim.4.18",
@@ -7238,7 +7044,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 13,
             "verse": "Ps.56.9",
@@ -7272,7 +7077,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 14,
             "verse": "Matt.28.1",
@@ -7306,7 +7110,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 15,
             "verse": "Mark.16.9",
@@ -7340,7 +7143,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 16,
             "verse": "Ps.102.13-Ps.102.14",
@@ -7374,7 +7176,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 17,
             "verse": "1Kgs.18.40",
@@ -7408,7 +7209,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 18,
             "verse": "Joel.2.8",
@@ -7442,7 +7242,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 19,
             "verse": "Matt.12.20",
@@ -7476,7 +7275,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 20,
             "verse": "Jer.2.18",
@@ -7510,7 +7308,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 21,
             "verse": "Ps.42.9",
@@ -7553,7 +7350,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 22,
             "verse": "John.19.5",
@@ -7587,7 +7383,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 23,
             "verse": "1John.1.7",
@@ -7630,7 +7425,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 24,
             "verse": "Joel.2.11",
@@ -7664,7 +7458,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 25,
             "verse": "Hos.5.15",
@@ -7698,7 +7491,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 26,
             "verse": "Ps.113.8",
@@ -7732,7 +7524,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 27,
             "verse": "Rom.8.33",
@@ -7775,7 +7566,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 28,
             "verse": "Acts.10.38",
@@ -7809,7 +7599,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 29,
             "verse": "John.6.37",
@@ -7852,7 +7641,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 30,
             "verse": "John.6.37",
@@ -7913,7 +7701,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 7,
             "day": 31,
             "verse": "1Chr.9.33",
@@ -7956,7 +7743,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 1,
             "verse": "Ps.65.11",
@@ -7990,7 +7776,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 2,
             "verse": "Ruth.2.17",
@@ -8024,7 +7809,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 3,
             "verse": "Luke.8.42",
@@ -8058,7 +7842,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 4,
             "verse": "Hag.2.17",
@@ -8101,7 +7884,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 5,
             "verse": "Num.32.6",
@@ -8135,7 +7917,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 6,
             "verse": "Ps.72.19",
@@ -8169,7 +7950,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 7,
             "verse": "1Thess.2.18",
@@ -8203,7 +7983,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 8,
             "verse": "Mark.9.23",
@@ -8237,7 +8016,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 9,
             "verse": "Mark.16.9",
@@ -8271,7 +8049,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 10,
             "verse": "Matt.9.6",
@@ -8314,7 +8091,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 11,
             "verse": "2Thess.2.16",
@@ -8348,7 +8124,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 12,
             "verse": "Gen.9.14",
@@ -8382,7 +8157,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 13,
             "verse": "Gen.9.15",
@@ -8416,7 +8190,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 14,
             "verse": "Exod.3.7",
@@ -8477,7 +8250,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 15,
             "verse": "Ezek.36.26",
@@ -8529,7 +8301,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 16,
             "verse": "Rom.8.23",
@@ -8563,7 +8334,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 17,
             "verse": "John.11.4",
@@ -8624,7 +8394,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 18,
             "verse": "Mark.15.23",
@@ -8658,7 +8427,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 19,
             "verse": "Ps.31.4",
@@ -8710,7 +8478,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 20,
             "verse": "Neh.3.8",
@@ -8753,7 +8520,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 21,
             "verse": "Isa.45.19",
@@ -8787,7 +8553,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 22,
             "verse": "Eph.3.8",
@@ -8821,7 +8586,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 23,
             "verse": "Eph.3.17",
@@ -8864,7 +8628,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 24,
             "verse": "Exod.22.6",
@@ -8907,7 +8670,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 25,
             "verse": "Acts.8.37",
@@ -8941,7 +8703,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 26,
             "verse": "Mark.9.15",
@@ -8975,7 +8736,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 27,
             "verse": "Ps.31.5",
@@ -9027,7 +8787,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 28,
             "verse": "Isa.54.1",
@@ -9070,7 +8829,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 29,
             "verse": "Num.6.4",
@@ -9104,7 +8862,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 30,
             "verse": "Jer.17.14,Isa.57.18",
@@ -9138,7 +8895,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 8,
             "day": 31,
             "verse": "1John.1.7",
@@ -9172,7 +8928,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 1,
             "verse": "Ps.62.8",
@@ -9215,7 +8970,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 2,
             "verse": "John.4.48",
@@ -9249,7 +9003,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 3,
             "verse": "Ps.11.5",
@@ -9283,7 +9036,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 4,
             "verse": "Lev.19.36",
@@ -9326,7 +9078,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 5,
             "verse": "Job.38.16",
@@ -9360,7 +9111,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 6,
             "verse": "Gal.5.18",
@@ -9394,7 +9144,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 7,
             "verse": "Jer.49.23",
@@ -9428,7 +9177,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 8,
             "verse": "Eph.1.19-Eph.1.20",
@@ -9462,7 +9210,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 9,
             "verse": "Rev.4.4",
@@ -9514,7 +9261,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 10,
             "verse": "Hab.1.8",
@@ -9566,7 +9312,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 11,
             "verse": "Ps.5.8",
@@ -9600,7 +9345,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 12,
             "verse": "Ps.101.1",
@@ -9661,7 +9405,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 13,
             "verse": "Luke.15.2",
@@ -9704,7 +9447,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 14,
             "verse": "Ps.32.5",
@@ -9738,7 +9480,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 15,
             "verse": "Ps.148.14",
@@ -9772,7 +9513,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 16,
             "verse": "Job.7.12",
@@ -9806,7 +9546,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 17,
             "verse": "Deut.1.38",
@@ -9840,7 +9579,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 18,
             "verse": "John.10.27",
@@ -9874,7 +9612,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 19,
             "verse": "1Sam.1.27",
@@ -9908,7 +9645,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 20,
             "verse": "Eccl.11.6",
@@ -9951,7 +9687,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 21,
             "verse": "Ps.26.9",
@@ -9985,7 +9720,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 22,
             "verse": "Ps.61.2",
@@ -10019,7 +9753,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 23,
             "verse": "Mark.9.23",
@@ -10053,7 +9786,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 24,
             "verse": "Song.5.2",
@@ -10096,7 +9828,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 25,
             "verse": "1Cor.1.30",
@@ -10130,7 +9861,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 26,
             "verse": "Zech.11.2",
@@ -10173,7 +9903,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 27,
             "verse": "Song.5.4",
@@ -10207,7 +9936,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 28,
             "verse": "1Kgs.18.43",
@@ -10241,7 +9969,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 29,
             "verse": "Song.3.4",
@@ -10284,7 +10011,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 9,
             "day": 30,
             "verse": "Eccl.9.4",
@@ -10327,7 +10053,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 1,
             "verse": "Ps.84.11",
@@ -10379,7 +10104,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 2,
             "verse": "Dan.10.11",
@@ -10413,7 +10137,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 3,
             "verse": "Heb.2.18",
@@ -10447,7 +10170,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 4,
             "verse": "1John.2.1",
@@ -10481,7 +10203,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 5,
             "verse": "Mark.16.16",
@@ -10515,7 +10236,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 6,
             "verse": "Num.12.1",
@@ -10549,7 +10269,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 7,
             "verse": "Isa.36.5",
@@ -10592,7 +10311,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 8,
             "verse": "Jude.1.20",
@@ -10635,7 +10353,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 9,
             "verse": "Matt.15.23",
@@ -10669,7 +10386,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 10,
             "verse": "Jer.15.21",
@@ -10703,7 +10419,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 11,
             "verse": "Rom.8.30",
@@ -10737,7 +10452,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 12,
             "verse": "John.14.26",
@@ -10771,7 +10485,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 13,
             "verse": "Song.8.6",
@@ -10823,7 +10536,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 14,
             "verse": "Rom.12.2",
@@ -10857,7 +10569,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 15,
             "verse": "Exod.34.20",
@@ -10891,7 +10602,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 16,
             "verse": "Ps.36.9",
@@ -10925,7 +10635,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 17,
             "verse": "Isa.40.11",
@@ -10959,7 +10668,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 18,
             "verse": "1Sam.15.22",
@@ -10993,7 +10701,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 19,
             "verse": "Job.35.10",
@@ -11027,7 +10734,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 20,
             "verse": "Isa.43.6",
@@ -11070,7 +10776,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 21,
             "verse": "Luke.24.38",
@@ -11104,7 +10809,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 22,
             "verse": "John.16.15",
@@ -11138,7 +10842,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 23,
             "verse": "Luke.22.46",
@@ -11172,7 +10875,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 24,
             "verse": "John.13.5",
@@ -11206,7 +10908,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 25,
             "verse": "Ruth.2.3",
@@ -11249,7 +10950,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 26,
             "verse": "Eccl.1.7",
@@ -11283,7 +10983,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 27,
             "verse": "Isa.64.6",
@@ -11317,7 +11016,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 28,
             "verse": "Song.5.11",
@@ -11369,7 +11067,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 29,
             "verse": "Luke.24.16",
@@ -11403,7 +11100,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 30,
             "verse": "Song.8.13",
@@ -11437,7 +11133,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 10,
             "day": 31,
             "verse": "Hos.13.5",
@@ -11489,7 +11184,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 1,
             "verse": "Matt.24.39",
@@ -11541,7 +11235,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 2,
             "verse": "Ps.119.53",
@@ -11575,7 +11268,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 3,
             "verse": "2Chr.30.27",
@@ -11609,7 +11301,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 4,
             "verse": "Ps.36.9",
@@ -11643,7 +11334,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 5,
             "verse": "Ps.100.4",
@@ -11686,7 +11376,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 6,
             "verse": "Heb.9.20",
@@ -11720,7 +11409,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 7,
             "verse": "Acts.1.8",
@@ -11754,7 +11442,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 8,
             "verse": "Mark.14.14",
@@ -11788,7 +11475,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 9,
             "verse": "Isa.33.16",
@@ -11822,7 +11508,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 10,
             "verse": "Matt.10.25",
@@ -11856,7 +11541,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 11,
             "verse": "Ps.47.4",
@@ -11899,7 +11583,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 12,
             "verse": "Luke.6.12",
@@ -11933,7 +11616,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 13,
             "verse": "Luke.18.1",
@@ -11967,7 +11649,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 14,
             "verse": "Gen.29.26",
@@ -12019,7 +11700,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 15,
             "verse": "Ps.68.28",
@@ -12053,7 +11733,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 16,
             "verse": "Isa.33.17",
@@ -12087,7 +11766,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 17,
             "verse": "Eccl.10.9",
@@ -12130,7 +11808,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 18,
             "verse": "Ps.93.2",
@@ -12164,7 +11841,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 19,
             "verse": "Job.23.3",
@@ -12198,7 +11874,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 20,
             "verse": "Prov.30.26",
@@ -12232,7 +11907,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 21,
             "verse": "John.12.2",
@@ -12275,7 +11949,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 22,
             "verse": "Phil.3.10",
@@ -12309,7 +11982,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 23,
             "verse": "Isa.40.9",
@@ -12352,7 +12024,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 24,
             "verse": "Prov.24.33-Prov.24.34",
@@ -12386,7 +12057,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 25,
             "verse": "Rom.9.15",
@@ -12429,7 +12099,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 26,
             "verse": "Zech.4.10",
@@ -12472,7 +12141,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 27,
             "verse": "Eph.1.7",
@@ -12506,7 +12174,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 28,
             "verse": "Esth.10.3",
@@ -12549,7 +12216,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 29,
             "verse": "Exod.35.8",
@@ -12583,7 +12249,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 11,
             "day": 30,
             "verse": "Rev.12.7",
@@ -12635,7 +12300,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 1,
             "verse": "Ps.107.8",
@@ -12669,7 +12333,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 2,
             "verse": "Eccl.1.14",
@@ -12703,7 +12366,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 3,
             "verse": "Ps.24.8",
@@ -12746,7 +12408,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 4,
             "verse": "Rom.8.23",
@@ -12780,7 +12441,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 5,
             "verse": "Zech.1.20",
@@ -12814,7 +12474,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 6,
             "verse": "Rev.1.13",
@@ -12857,7 +12516,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 7,
             "verse": "1Cor.9.22",
@@ -12891,7 +12549,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 8,
             "verse": "Ps.68.10",
@@ -12934,7 +12591,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 9,
             "verse": "Isa.32.18",
@@ -12977,7 +12633,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 10,
             "verse": "Acts.16.14",
@@ -13011,7 +12666,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 11,
             "verse": "Col.3.24",
@@ -13054,7 +12708,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 12,
             "verse": "Hos.5.7",
@@ -13088,7 +12741,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 13,
             "verse": "Isa.54.12",
@@ -13140,7 +12792,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 14,
             "verse": "Gal.2.20",
@@ -13183,7 +12834,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 15,
             "verse": "Isa.54.11",
@@ -13226,7 +12876,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 16,
             "verse": "Isa.48.8",
@@ -13260,7 +12909,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 17,
             "verse": "John.10.9",
@@ -13330,7 +12978,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 18,
             "verse": "Prov.27.23",
@@ -13364,7 +13011,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 19,
             "verse": "Rev.21.1",
@@ -13398,7 +13044,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 20,
             "verse": "Matt.20.8",
@@ -13432,7 +13077,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 21,
             "verse": "Ezek.16.10",
@@ -13484,7 +13128,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 22,
             "verse": "Deut.32.5",
@@ -13518,7 +13161,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 23,
             "verse": "Ps.74.16",
@@ -13579,7 +13221,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 24,
             "verse": "Isa.40.5",
@@ -13631,7 +13272,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 25,
             "verse": "Job.1.5",
@@ -13674,7 +13314,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 26,
             "verse": "Matt.28.20",
@@ -13708,7 +13347,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 27,
             "verse": "Isa.58.11",
@@ -13742,7 +13380,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 28,
             "verse": "Matt.10.34",
@@ -13776,7 +13413,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 29,
             "verse": "Matt.22.42",
@@ -13819,7 +13455,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 30,
             "verse": "2Sam.2.26",
@@ -13862,7 +13497,6 @@
             }
         },
         {
-            "time": "evening",
             "month": 12,
             "day": 31,
             "verse": "Jer.8.20",
