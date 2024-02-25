@@ -2,13 +2,13 @@ import crypto from 'node:crypto'
 import { mkdir, readdir } from 'node:fs/promises'
 import path from 'node:path'
 import { Feed } from 'feed'
-import { JSDOM } from 'jsdom'
+import { Window } from 'happy-dom'
 import { DOMSerializer, Node } from 'prosemirror-model'
 import { schema } from 'prosemirror-schema-basic'
 
 const bodyToHtml = (body) => {
-    const { window } = new JSDOM('<!DOCTYPE html><div class="container"></div>')
-    const { document } = window
+    const { document } = new Window()
+    document.body.innerHTML = '<div class="container"></div>'
     const target = document.querySelector('.container')
 
     const contentNode = Node.fromJSON(schema, body)

@@ -7,7 +7,7 @@
     },
     "devDependencies": {
         "feed": "4.2.2",
-        "jsdom": "24.0.0",
+        "happy-dom": "^13.5.3",
         "prettier": "3.2.5",
         "prosemirror-model": "1.19.4",
         "prosemirror-schema-basic": "1.2.2"
