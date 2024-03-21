@@ -1,0 +1,19 @@
+test:
+    image: oven/bun:alpine
+    stage: test
+    script:
+        - bun install
+        - bun run format:check
+
+pages:
+    image: oven/bun:alpine
+    stage: deploy
+    rules:
+        - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+        - if: $CI_PIPELINE_SOURCE == "schedule"
+    script:
+        - bun install
+        - bun run gen:rss
+    artifacts:
+        paths:
+            - public
